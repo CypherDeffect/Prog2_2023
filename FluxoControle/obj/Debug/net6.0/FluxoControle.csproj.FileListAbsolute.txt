@@ -1,0 +1,15 @@
+C:\Prog3\FluxoControle\bin\Debug\net6.0\FluxoControle.exe
+C:\Prog3\FluxoControle\bin\Debug\net6.0\FluxoControle.deps.json
+C:\Prog3\FluxoControle\bin\Debug\net6.0\FluxoControle.runtimeconfig.json
+C:\Prog3\FluxoControle\bin\Debug\net6.0\FluxoControle.dll
+C:\Prog3\FluxoControle\bin\Debug\net6.0\FluxoControle.pdb
+C:\Prog3\FluxoControle\obj\Debug\net6.0\FluxoControle.csproj.AssemblyReference.cache
+C:\Prog3\FluxoControle\obj\Debug\net6.0\FluxoControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog3\FluxoControle\obj\Debug\net6.0\FluxoControle.AssemblyInfoInputs.cache
+C:\Prog3\FluxoControle\obj\Debug\net6.0\FluxoControle.AssemblyInfo.cs
+C:\Prog3\FluxoControle\obj\Debug\net6.0\FluxoControle.csproj.CoreCompileInputs.cache
+C:\Prog3\FluxoControle\obj\Debug\net6.0\FluxoControle.dll
+C:\Prog3\FluxoControle\obj\Debug\net6.0\refint\FluxoControle.dll
+C:\Prog3\FluxoControle\obj\Debug\net6.0\FluxoControle.pdb
+C:\Prog3\FluxoControle\obj\Debug\net6.0\FluxoControle.genruntimeconfig.cache
+C:\Prog3\FluxoControle\obj\Debug\net6.0\ref\FluxoControle.dll
