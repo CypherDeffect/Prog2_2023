@@ -3,45 +3,43 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PSIUWeb.Models
 {
-    public enum Race {
+    public enum Race
+    {
         Asiático,
         Branco,
-        Indio,
+        Índio,
         Negro,
         Pardo,
         Outros
     }
-        
+
     public class Patient
     {
         [Key]
         public int Id { get; set; }
 
-        [Required(ErrorMessage = "Nome Requirido")]
+        [Required(ErrorMessage = "Nome requerido.")]
         [Display(Name = "Nome")]
-        public string Name { get; set; }
+        public string? Name { get; set; }
 
-        [Required(ErrorMessage = "Data de Nascimento Requirida")]
-        [Display(BirthDate = "Data de Nascimento")]
+        [Required(ErrorMessage = "Data de nascimento requerida.")]
+        [Display(Name = "Data de nascimento")]
         public DateTime BirthDate { get; set; }
 
-        [Required(ErrorMessage = "Peso Requirido")]
-        [Display(Weight = "Peso")]
-        public float Weight { get; set; }
-        // Float, decimal são tipos reais
+        [Required(ErrorMessage = "Peso requerido.")]
+        [Display(Name = "Peso")]
+        public decimal Weight { get; set; }
 
-        [Required(ErrorMessage = "Altura Requirida")]
-        [Display(Height = "Altura")]
+        [Required(ErrorMessage = "Altura requerida.")]
+        [Display(Name = "Altura")]
         public decimal Height { get; set; }
 
-        [Required(ErrorMessage = "Raça Requirida")]
-        [Display(Race = "Raça")]
+        [Required(ErrorMessage = "Raça requerida.")]
+        [Display(Name = "Raça")]
         public Race Race { get; set; }
 
         [ForeignKey("User")]
-        public string UserID { get; set; }
-        //Navigation 
+        public string UserId { get; set; }
         public appUser User { get; set; }
-
     }
 }

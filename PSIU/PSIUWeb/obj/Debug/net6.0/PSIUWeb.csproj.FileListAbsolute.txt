@@ -64,3 +64,10 @@ C:\Prog3\PSIU\PSIUWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Ru
 C:\Prog3\PSIU\PSIUWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Prog3\PSIU\PSIUWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Prog3\PSIU\PSIUWeb\obj\Debug\net6.0\PSIUWeb.csproj.CopyComplete
+C:\Prog3\PSIU\PSIUWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Prog3\PSIU\PSIUWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Prog3\PSIU\PSIUWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Prog3\PSIU\PSIUWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Prog3\PSIU\PSIUWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Prog3\PSIU\PSIUWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Prog3\PSIU\PSIUWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
